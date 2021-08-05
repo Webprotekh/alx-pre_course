@@ -11,3 +11,5 @@ The following are what is done in this project:
  * Create the repository
 
 etc.
+
+At the end of this task, I am able to complete the basic knowledge of shell
